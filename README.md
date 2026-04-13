@@ -16,8 +16,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpadegas/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Adegas&show_icons=true&bg_color=00000000)
-
 # Technologies
 
 <div style="display:flex; align-itens:center;">
